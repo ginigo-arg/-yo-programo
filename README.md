@@ -2,13 +2,13 @@
 
 ## Caracteristicas de la App
 
-- dwawdawd
+- Portfolio personal 
 
 
 ## ScreenShots 
 
 <p align="center">
-  <img src="ScreenShoots/Portfolio-Arg-Programa-themes-2.jpg" width="50%"/>
+  <img src="ScreenShoots/Portfolio-Arg-Programa-themes-2.jpg" width="100%"/>
 </p>
 
 
